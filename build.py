@@ -24,7 +24,7 @@ import sys
 # Paths (relative to this script)
 # ---------------------------------------------------------------------------
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
-DB_PATH      = os.path.join(SCRIPT_DIR, "windows-syscalls", "x64", "json", "nt-per-syscall.json")
+DB_PATH      = os.path.join(SCRIPT_DIR, "windows-syscalls" , "nt-per-syscall.json")
 HEADER_PATH  = os.path.join(SCRIPT_DIR, "siscall", "include", "syscall_numbers.h")
 SLN_PATH     = os.path.join(SCRIPT_DIR, "siscall.sln")
 

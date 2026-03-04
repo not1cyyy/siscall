@@ -6,6 +6,10 @@ The binary calls NT APIs (`NtQuerySystemInformation`, `NtAllocateVirtualMemory`,
 
 ---
 
+<div align=center>
+  <img src="https://media1.tenor.com/m/CX-vtNc3Vm0AAAAd/vodka-fire.gif" width="800"/>
+</div>
+
 ## Techniques Demonstrated
 
 ### 1. ROL-XOR Obfuscated Syscall Numbers
